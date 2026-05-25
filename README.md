@@ -1,168 +1,121 @@
-# Hi there 👋 I'm Sajid Dudekula
+<h1 align="center">Hi there! 👋 I'm <a href="https://github.com/SajidDudekula">Sajid Dudekula</a></h1>
 
-<div align="center">
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F7A800&center=true&vCenter=true&width=600&lines=AI+%26+ML+Engineer;B.Tech+CSE+(AI+%26+ML)+%40+Parul+University;Aspiring+Software+Developer" alt="Typing SVG" />
+</p>
 
-### AI & ML Engineer | Final Year CSE (AI & ML) Student | Building Intelligent Systems
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Aspiring+AI%2FML+Engineer;Machine+Learning+%26+Deep+Learning+Enthusiast;Building+Real-World+AI+Solutions;Open+to+Internships+%26+Collaborations" alt="Typing SVG" />
-
-</div>
+<p align="center">
+  Aspiring AI/ML Engineer with hands-on experience in building, training, and deploying machine learning models and intelligent systems. Passionate about solving real-world problems with data-driven solutions and modern technologies.
+</p>
 
 ---
 
-## 🚀 About Me
-
-🎓 Final Year B.Tech CSE (AI & ML) Student at **Parul University**  
-📍 Vadodara, India  
-📊 CGPA: **8.2/10**  
-🤖 Passionate about **Machine Learning, Deep Learning, NLP, and Intelligent Applications**  
-💡 Interested in building scalable AI systems that solve real-world problems  
-🌱 Currently exploring **LLMs, RAG Systems, MLOps, and Cloud-based AI Deployment**  
-🎯 Goal: To become a world-class AI Engineer and contribute to impactful AI products
+<p align="center">
+  <img src="https://img.shields.io/badge/CGPA-8.2%2F10-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Final%20Year-2027-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-brightgreen?style=for-the-badge" />
+</p>
 
 ---
 
-## 💼 Professional Experience
+## 🚀 Experience & Achievements
 
-### 🧠 Machine Learning Intern — EI Systems (IIT BHU)
-📅 Dec 2025 – Feb 2026
-
-- Designed and optimized ANN models for real-world applications
-- Built end-to-end ML pipelines including preprocessing, feature engineering, training, evaluation, and deployment
-- Improved model performance through hyperparameter tuning
-- Worked extensively with TensorFlow, Keras, Scikit-learn, Pandas, and NumPy
-- Focused on reducing inference latency while improving prediction accuracy
+| | Role | Details |
+|---|---|---|
+| 🚀 | **Machine Learning Intern @ IIT BHU** | Built and optimized ML models for real-world tasks |
+| 🌐 | **Google Student Ambassador** | Promoting Google technologies on campus |
+| 🛡️ | **NCC C Certificate (2023–2026)** | Leadership, discipline and team management |
+| 💻 | **Problem Solver** | Passionate about DSA, ML and System Design |
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Technical Skills
 
-### 👨‍💻 Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=python,javascript,c,mysql" />
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
+
+### AI / ML / DL
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+
+### Web & Databases
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+### Cloud & Tools
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+
+### Tools & IDEs
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![Colab](https://img.shields.io/badge/Colab-F9AB00?style=flat-square&logo=google-colab&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SajidDudekula&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SajidDudekula&layout=donut&theme=github_dark&hide_border=true" height="165" />
 </p>
 
-### 🤖 AI / ML
-<p>
-  <img src="https://skillicons.dev/icons?i=tensorflow" />
-  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/NLP-0A66C2?style=for-the-badge" />
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SajidDudekula&theme=github-dark-blue&hide_border=true" />
 </p>
 
-### 🌐 Web & Database
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,mysql" />
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SajidDudekula&theme=github-compact&hide_border=true" />
 </p>
 
-### ☁️ Cloud & Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=aws,azure,docker,git,github,vscode" />
-</p>
+---
 
-### 📚 Libraries
-`TensorFlow` `Keras` `Scikit-learn` `Pandas` `NumPy` `spaCy` `NLTK` `Matplotlib` `OpenCV`
+## 🏆 Highlights
+
+<table>
+  <tr>
+    <td>🌐 <b>Google Student Ambassador</b> — Aug–Dec 2025</td>
+    <td>🛡️ <b>NCC C Certificate</b> — 2023–2026</td>
+  </tr>
+  <tr>
+    <td>🤖 <b>Machine Learning Internship</b> — EI Systems, IIT BHU | Dec 2025 – Feb 2026</td>
+    <td>🏅 <b>Hackathon Experience</b> — Team lead, pitching, collaboration & problem solving</td>
+  </tr>
+</table>
 
 ---
 
 ## 📌 Featured Projects
 
-### 🌾 Crop Disease Detection System
-> Deep learning-based crop disease detection platform with intelligent recommendations.
-
-🔹 Achieved 90%+ disease detection accuracy  
-🔹 Applied image preprocessing and augmentation techniques  
-🔹 Generated fertilizer and pesticide recommendations  
-🔹 Built using Python, Keras, OpenCV, and Scikit-learn
+| Project | Description | Stars | Forks |
+|---|---|---|---|
+| [🌿 crop-disease-detection](https://github.com/SajidDudekula/crop-disease-detection) | Deep learning based crop disease detection system with recommendation engine | ⭐ 12 | 🍴 3 |
+| [📄 ai-resume-analyzer](https://github.com/SajidDudekula/ai-resume-analyzer) | AI-powered resume analyzer using NLP and similarity matching | ⭐ 8 | 🍴 2 |
+| [💬 llm-chatbot](https://github.com/SajidDudekula/llm-chatbot) | LLM-powered conversational AI chatbot with RAG and memory | ⭐ 15 | 🍴 4 |
 
 ---
 
-### 📄 AI-Powered Resume Analyzer
-> Smart resume analysis system using NLP and similarity matching.
-
-🔹 Implemented TF-IDF and cosine similarity-based matching  
-🔹 Used spaCy NER for extracting skills and qualifications  
-🔹 Generated skill-gap analysis and personalized suggestions  
-🔹 Built using Python, Scikit-learn, spaCy, and NLTK
-
----
-
-### 💬 Conversational AI Chatbot (LLM Powered)
-> Context-aware chatbot powered by Gemini API and LangChain.
-
-🔹 Developed multi-turn conversational memory system  
-🔹 Integrated RAG for document-grounded responses  
-🔹 Applied prompt engineering for contextual interactions  
-🔹 Built using Gemini API, LangChain, and REST APIs
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Itzsajidsk&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Itzsajidsk&layout=compact&theme=tokyonight&hide_border=true" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Itzsajidsk&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-## 🏆 Certifications & Achievements
-
-🏅 Google Student Ambassador — Parul University  
-🏅 NCC C Certificate Holder (2023–2026)  
-🏅 AWS Foundations Certified  
-🏅 Azure Fundamentals  
-🏅 AI/ML Fundamentals (IBM)  
-🏅 Machine Learning Internship — IIT BHU Sponsored Program
-
----
-
-## 📈 Current Focus
-
-- Large Language Models (LLMs)
-- Retrieval-Augmented Generation (RAG)
-- AI-powered Web Applications
-- MLOps & Cloud Deployment
-- Advanced DSA & Problem Solving
-- Scalable AI System Design
-
----
-
-## 🌐 Connect With Me
+## 🤝 Connect with Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/dudekula-saji">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  
-  <a href="mailto:sajidsajju444@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  
-  <a href="https://github.com/Itzsajidsk">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+  <a href="https://linkedin.com/in/dudekula-sajid"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/SajidDudekula"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://leetcode.com/u/sajidtd444"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+  <a href="mailto:sajidsajju444@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
 
-## 🔥 Contribution Graph
-
-[![Sajid's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Itzsajidsk&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
----
-
-<div align="center">
-
-### ✨ "Code. Learn. Build. Repeat." ✨
-
-<img src="https://komarev.com/ghpvc/?username=Itzsajidsk&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-
-</div>
+<p align="center">
+  <i>"Code. Learn. Build. Repeat."</i>
+</p>
