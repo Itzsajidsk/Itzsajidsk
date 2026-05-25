@@ -177,7 +177,7 @@ status   : Actively seeking full-time & internship opportunities
         <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
       </p>
       <p>⭐ 8 &nbsp; 🍴 2</p>
-      <a href="https://github.com/Itzsajidsk/ai-resume-analyzer"><kbd>View Project →</kbd></a>
+      <a href="https://github.com/Itzsajidsk/resume-optimizer-pro"><kbd>View Project →</kbd></a>
     </td>
     <td width="33%" valign="top">
       <h3>💬 LLM Chatbot</h3>
@@ -188,7 +188,7 @@ status   : Actively seeking full-time & internship opportunities
         <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
       </p>
       <p>⭐ 15 &nbsp; 🍴 4</p>
-      <a href="https://github.com/Itzsajidsk/llm-chatbot"><kbd>View Project →</kbd></a>
+      <a href="https://github.com/Itzsajidsk/Gemini-Chatbot"><kbd>View Project →</kbd></a>
     </td>
   </tr>
 </table>
