@@ -1,27 +1,27 @@
-<h1 align="center">Hi there! 👋 I'm <a href="https://github.com/SajidDudekula">Sajid Dudekula</a></h1>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F7A800&center=true&vCenter=true&width=600&lines=AI+%26+ML+Engineer;B.Tech+CSE+(AI+%26+ML)+%40+Parul+University;Aspiring+Software+Developer" alt="Typing SVG" />
-</p>
+# Hi there! 👋 I'm [Sajid Dudekula](https://github.com/Itzsajidsk)
 
-<p align="center">
-  Aspiring AI/ML Engineer with hands-on experience in building, training, and deploying machine learning models and intelligent systems. Passionate about solving real-world problems with data-driven solutions and modern technologies.
-</p>
+### 🎓 AI & ML Engineer &nbsp;|&nbsp; B.Tech CSE (AI & ML) @ Parul University
 
----
+<p>Aspiring AI/ML Engineer with hands-on experience in building, training, and deploying<br>
+machine learning models and intelligent systems. Passionate about solving real-world<br>
+problems with data-driven solutions and modern technologies.</p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/CGPA-8.2%2F10-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Final%20Year-2027-green?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-brightgreen?style=for-the-badge" />
-</p>
+<br>
+
+![CGPA](https://img.shields.io/badge/CGPA-8.2%2F10-blue?style=flat-square)
+![Final Year](https://img.shields.io/badge/Final%20Year-2027-blue?style=flat-square)
+![Status](https://img.shields.io/badge/Status-Open%20to%20Opportunities-brightgreen?style=flat-square)
+
+</div>
 
 ---
 
 ## 🚀 Experience & Achievements
 
 | | Role | Details |
-|---|---|---|
+|:---:|---|---|
 | 🚀 | **Machine Learning Intern @ IIT BHU** | Built and optimized ML models for real-world tasks |
 | 🌐 | **Google Student Ambassador** | Promoting Google technologies on campus |
 | 🛡️ | **NCC C Certificate (2023–2026)** | Leadership, discipline and team management |
@@ -65,32 +65,51 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SajidDudekula&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SajidDudekula&layout=donut&theme=github_dark&hide_border=true" height="165" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SajidDudekula&theme=github-dark-blue&hide_border=true" />
-</p>
+<table>
+<tr>
+<td>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SajidDudekula&theme=github-compact&hide_border=true" />
-</p>
+| Metric | Count |
+|---|---|
+| Total Contributions | **231** |
+| Repositories | **18** |
+| Stars Earned | **42** |
+| Followers | **3** |
+
+</td>
+<td>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Itzsajidsk&layout=donut&theme=github_dark&hide_border=true&langs_count=6" />
+
+</td>
+</tr>
+</table>
+
+<br>
+
+![Contribution Activity](https://github-readme-activity-graph.vercel.app/graph?username=Itzsajidsk&theme=github-compact&hide_border=true&area=true)
+
+<br>
+
+🔥 **231 contributions in the last year**
+
+</div>
 
 ---
 
 ## 🏆 Highlights
 
-<table>
-  <tr>
-    <td>🌐 <b>Google Student Ambassador</b> — Aug–Dec 2025</td>
-    <td>🛡️ <b>NCC C Certificate</b> — 2023–2026</td>
-  </tr>
-  <tr>
-    <td>🤖 <b>Machine Learning Internship</b> — EI Systems, IIT BHU | Dec 2025 – Feb 2026</td>
-    <td>🏅 <b>Hackathon Experience</b> — Team lead, pitching, collaboration & problem solving</td>
-  </tr>
+<table width="100%">
+<tr>
+<td width="50%">🌐 <b>Google Student Ambassador</b> — Aug–Dec 2025</td>
+<td width="50%">🛡️ <b>NCC C Certificate</b> — 2023–2026</td>
+</tr>
+<tr>
+<td>🤖 <b>Machine Learning Internship</b> — EI Systems, IIT BHU | Dec 2025 – Feb 2026</td>
+<td>🏅 <b>Hackathon Experience</b> — Team lead, pitching, collaboration & problem solving</td>
+</tr>
 </table>
 
 ---
@@ -98,24 +117,26 @@
 ## 📌 Featured Projects
 
 | Project | Description | Stars | Forks |
-|---|---|---|---|
-| [🌿 crop-disease-detection](https://github.com/SajidDudekula/crop-disease-detection) | Deep learning based crop disease detection system with recommendation engine | ⭐ 12 | 🍴 3 |
-| [📄 ai-resume-analyzer](https://github.com/SajidDudekula/ai-resume-analyzer) | AI-powered resume analyzer using NLP and similarity matching | ⭐ 8 | 🍴 2 |
-| [💬 llm-chatbot](https://github.com/SajidDudekula/llm-chatbot) | LLM-powered conversational AI chatbot with RAG and memory | ⭐ 15 | 🍴 4 |
+|---|---|:---:|:---:|
+| [🌿 crop-disease-detection](https://github.com/Itzsajidsk/crop-disease-detection) | Deep learning based crop disease detection system with recommendation engine | ⭐ 12 | 🍴 3 |
+| [📄 ai-resume-analyzer](https://github.com/Itzsajidsk/ai-resume-analyzer) | AI-powered resume analyzer using NLP and similarity matching | ⭐ 8 | 🍴 2 |
+| [💬 llm-chatbot](https://github.com/Itzsajidsk/llm-chatbot) | LLM-powered conversational AI chatbot with RAG and memory | ⭐ 15 | 🍴 4 |
 
 ---
 
 ## 🤝 Connect with Me
 
-<p align="center">
-  <a href="https://linkedin.com/in/dudekula-sajid"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/SajidDudekula"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://leetcode.com/u/sajidtd444"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
-  <a href="mailto:sajidsajju444@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dudekula-sajid)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Itzsajidsk)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/sajidtd444)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sajidsajju444@gmail.com)
+
+</div>
 
 ---
 
-<p align="center">
+<div align="center">
   <i>"Code. Learn. Build. Repeat."</i>
-</p>
+</div>
